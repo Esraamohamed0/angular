@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "esraa",
+      "age": "24",
+      "email": "esraa@gmail.com",
+      "phone": "01113375563",
+      "address": "Alexandria, Egypt",
+      "id": 1
+    },
+    {
+      "name": "aya",
+      "age": "20",
+      "email": "Aya@gmail.com",
+      "phone": "01113375563",
+      "address": "Alexandria, Egypt",
+      "id": 2
+    },
+    {
+      "name": "Esraa Elsayed mohamed",
+      "age": "24",
+      "email": "esraaelsyed320@gmail.com",
+      "phone": "01113375563",
+      "address": "alsuyuf Alexandria, Egypt",
+      "id": 7
+    }
+  ]
+}
